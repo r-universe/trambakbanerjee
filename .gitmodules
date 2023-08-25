@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "asus"]
+	path = asus
+	url = https://github.com/trambakbanerjee/asus
 [submodule "fusionclust"]
 	path = fusionclust
 	url = https://github.com/trambakbanerjee/fusionclust
